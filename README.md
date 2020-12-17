@@ -1,4 +1,5 @@
-# opensource
+# hotdogz7_
 Do not re publish the file(s)shown here (unless the file name is mojangaccounts.php) without asking for permission at hotdogz672@gmail.com
-thanks =]
--hotdogz7
+                                                                                                                                                                         -hotdogz7                                                                                                                                                                                                                                                                                                                                                     
+All of the .mcpack files are availble for download at http://hotdogz7.rf.gd/packs                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+mojangaccounts.php can be seen in action at http://hotdogz7.rf.gd/mojangaccounts.php
